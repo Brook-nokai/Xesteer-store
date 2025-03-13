@@ -1,0 +1,11 @@
+{
+  "mercadopago": {
+    "access_token": "APP_USR-6653132146066525-020521-ddd1d2280dadfa929e44c953595de14d-2147878027",
+    "public_key": "APP_USR-732a8f9d-ec11-4dc6-90a0-01d79e8a6aae"
+  },
+  "discord": {
+    "client_id": "1349527439239286846",
+    "client_secret": "0nuPLLxJH6tvcOk1pnXEgtLkeNEkVSf2",
+    "redirect_url": "YOUR_DISCORD_REDIRECT_URL"
+  }
+}
